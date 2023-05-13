@@ -121,9 +121,8 @@ Once downloaded use your favorite archive manager(e.g WinRAR, 7-Zip) to extract 
 
 ## Set your path environment variable <img src="images/win_images/cpp-logo.png" alt="cpp icon" width="40"/>
 
-Search for "path" in the task bar search box. Open Edit the system environment variables.
 
-Edit `system  environment variables`   |  Click `Environment Variables` |
+Search for "path" in the task bar search box. |  Click `Environment Variables` |
 :-------------------------:|:-------------------------:|
 <img src="images/win_images/system-vars.png" alt="vscode_after_cloning" width="600">   |  <img src="images/win_images/enviro-vars.png" alt="vscode_after_cloning" width="600" />
 
