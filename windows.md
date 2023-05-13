@@ -125,7 +125,7 @@ Search for "path" in the task bar search box. Open Edit the system environment v
 
 Edit `system  environment variables`   |  Click `Environment Variables` | Select `Path` variable and click `Edit`| Click 'New' and paste in your `MinGW` path `C:\mingw64\bin`
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="images/win_images/system-vars.png" alt="vscode_after_cloning" width="4000" height = "600">   |  <img src="images/win_images/enviro-vars.png" alt="vscode_after_cloning" width="4000" height = "700" /> |  <img src="images/win_images/edit-path.png" alt="vscode_after_cloning" width="4000" height = "500" > |  <img src="images/win_images/new-path.png" alt="vscode_after_cloning" width="4000" height = "700"/>
+<img src="images/win_images/system-vars.png" alt="vscode_after_cloning" width="1000">   |  <img src="images/win_images/enviro-vars.png" alt="vscode_after_cloning" width="1000" /> |  <img src="images/win_images/edit-path.png" alt="vscode_after_cloning" width="1000" > |  <img src="images/win_images/new-path.png" alt="vscode_after_cloning" width="1000"/>
 
 Click `ok` and exit all the system environment windows
 
