@@ -120,6 +120,7 @@ Once downloaded use your favorite archive manager(e.g WinRAR, 7-Zip) to extract 
 
 
 ### Set your path environment variable <img src="images/win_images/cpp-logo.png" alt="cpp icon" width="40"/>
+<br>
 
 Search for "path" in the task bar search box. |  Click `Environment Variables` |
 :-------------------------:|:-------------------------:|
