@@ -82,7 +82,7 @@ The first time you attempt to clone one of your own repos you will be met with t
 
 Download cmake from [here](https://cmake.org/download/). Choose the `Windows win64-x64 Installer`. You should get an msi with a name similar to this: `cmake-3.19.4-win64-x64.msi`<br>
 
-> <img src="images/win_images/cm-00-download_site.png" alt="vscode_after_cloning" width="700"/>
+> <img src="images/win_images/cmake-dl-page.png" alt="vscode_after_cloning" width="1000"/>
 
 <br>
 
@@ -125,7 +125,7 @@ Search for "path" in the task bar search box. Open Edit the system environment v
 
 Edit `system  environment variables`   |  Click `Environment Variables` | Select `Path` variable and click `Edit`| Click 'New' and paste in your `MinGW` path `C:\mingw64\bin`
 :-------------------------:|:-------------------------:|:-------------------------:|:-------------------------:
-<img src="images/win_images/system-vars.png" alt="vscode_after_cloning" width="500">   |  <img src="images/win_images/enviro-vars.png" alt="vscode_after_cloning" width="500" /> |  <img src="images/win_images/edit-path.png" alt="vscode_after_cloning" width="500" > |  <img src="images/win_images/new-path.png" alt="vscode_after_cloning" width="500"/>
+<img src="images/win_images/system-vars.png" alt="vscode_after_cloning" width="900">   |  <img src="images/win_images/enviro-vars.png" alt="vscode_after_cloning" width="900" /> |  <img src="images/win_images/edit-path.png" alt="vscode_after_cloning" width="900" > |  <img src="images/win_images/new-path.png" alt="vscode_after_cloning" width="900"/>
 
 Click `ok` and exit all the system environment windows
 
