@@ -7,7 +7,7 @@
 ---
 
 
-# Installing git  <img src="images/win_images/Git-Icon-1788C.png" alt="git icon" width="40"/>
+# Installing git  <img src="images/win_images/Git-Icon-1788C.png" alt="git icon" width="25"/>
 
 
 **Grab the latest git setup from** [here](https://gitforwindows.org). |  The ***default option*** for everything is perfectly fine, just keep clicking next.
@@ -75,7 +75,7 @@ The first time you attempt to clone one of your own repos you will be met with t
 
 <a name="win_installing_cmake"></a>
 
-# Installing cmake <img src="images/win_images/CMake-logo-triangle-high-res.png" alt="cmake icon" width="40"/>
+# Installing cmake <img src="images/win_images/CMake-logo-triangle-high-res.png" alt="cmake icon" width="25"/>
 
 
 ### Download `cmake`
@@ -106,7 +106,7 @@ If you see something like this, you're good to go!
 
 <a name="win_installing_mingw"></a>
 
-# Installing MinGW <img src="images/win_images/logo01.png" alt="mingw icon" width="40"/>
+# Installing MinGW <img src="images/win_images/logo01.png" alt="mingw icon" width="25"/>
 
 
 ## Download `MinGW`
@@ -119,8 +119,8 @@ Once downloaded use your favorite archive manager(e.g WinRAR, 7-Zip) to extract 
 
 
 
-### Set your path environment variable <img src="images/win_images/cpp-logo.png" alt="cpp icon" width="40"/>
-<br>
+## Set your path environment variable <img src="images/win_images/cpp-logo.png" alt="cpp icon" width="25"/>
+
 
 Search for "path" in the task bar search box. |  Click `Environment Variables` |
 :-------------------------:|:-------------------------:|
