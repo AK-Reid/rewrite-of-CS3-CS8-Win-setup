@@ -1,0 +1,16 @@
+Removed instructions for opening cmd - Clutter, anyone can figure this out.
+Removed all inital checks for installed software - Clutter, it's very unlikely a student will come into the class and have git, cmake, or mingw installed and not know. 
+Added pretty icons for each step. 
+
+Installing git section: 
+Changed link to a more user friendly download page with a very obvious download button that won't let you accidentally download the 32bit git or git for a different OS. 
+Made the screenshot layout more compact, removed an unnecessary screenshot. 
+Added a new section for how to setup and configure personal access tokens. 
+
+Installing cmake section:
+Added annotation to make the installer version more clear
+Made image layout more compact
+
+Installing MinGW section:
+Reduced the number of steps from 10 to 2, the installation process is now extremely easy and simple.
+Significantly simplified setting the path, removing unncessary steps i.e setting the g++.exe in the environment and simply setting the entire bin folder. 
