@@ -95,7 +95,7 @@ You may blindly click through the setup wizard, except for setting the path  |  
 To make sure `cmake` is intalled correctly, run `cmake --version`:
 <br>
 
-> <img src="images/win_images/cm-02-cmake_version.png" alt="vscode_after_cloning" width="600"/>
+> <img src="images/win_images/cmake-version-check.png" alt="vscode_after_cloning" width="600"/>
 
 If you see something like this, you're good to go!
 
